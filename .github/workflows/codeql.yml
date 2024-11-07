@@ -2,7 +2,7 @@ name: "CodeQL IaC"
 
 on:
   push:
-    branches: ["main"]
+    branches: ["feature/test-protection"]
   pull_request:
     branches: ["main"]
   workflow_dispatch:
